@@ -12,8 +12,11 @@ We installed 2 libraries which are:
 
 # Link of Dataset:
 1.Go to https://finance.yahoo.com/
+
 2.Search for BTC-USD or any preferred cryptocurrency
+
 3.Click on Historical on left side
+
 4.Click on Download
 # Screenshot Of Output:
 # Historical Data Taken:
